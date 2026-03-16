@@ -1,0 +1,24 @@
+{
+  "name": "humanize-marketplace",
+  "owner": {
+    "name": "Luke Steuber",
+    "email": "luke@dr.eamer.dev",
+    "url": "https://dr.eamer.dev"
+  },
+  "metadata": {
+    "description": "Humanize - Strip robot-sounding language from content.",
+    "version": "1.0.0",
+    "homepage": "https://github.com/lukeslp/humanize",
+    "repository": "https://github.com/lukeslp/humanize"
+  },
+  "plugins": [
+    {
+      "name": "humanize",
+      "source": "./",
+      "description": "Strip robot-sounding language from user-facing content.",
+      "version": "1.0.0",
+      "category": "writing",
+      "keywords": ["humanize", "writing", "content"]
+    }
+  ]
+}

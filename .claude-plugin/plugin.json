@@ -1,0 +1,13 @@
+{
+  "name": "humanize",
+  "version": "1.0.0",
+  "description": "Strip robot-sounding language from user-facing content. Enforces natural writing and the terminology ban on lazy LLM phrasing.",
+  "author": {
+    "name": "Luke Steuber",
+    "email": "luke@dr.eamer.dev"
+  },
+  "homepage": "https://github.com/lukeslp/humanize",
+  "repository": "https://github.com/lukeslp/humanize",
+  "license": "MIT",
+  "keywords": ["humanize", "writing", "content", "claude-code"]
+}
