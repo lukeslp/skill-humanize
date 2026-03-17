@@ -7,7 +7,7 @@
   },
   "metadata": {
     "description": "Humanize - Strip robot-sounding language from content.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "homepage": "https://github.com/lukeslp/skill-humanize",
     "repository": "https://github.com/lukeslp/skill-humanize"
   },
@@ -16,7 +16,7 @@
       "name": "humanize",
       "source": "./",
       "description": "Strip robot-sounding language from user-facing content.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "writing",
       "keywords": ["humanize", "writing", "content"]
     }
