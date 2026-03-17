@@ -8,8 +8,8 @@
   "metadata": {
     "description": "Humanize - Strip robot-sounding language from content.",
     "version": "1.0.0",
-    "homepage": "https://github.com/lukeslp/humanize",
-    "repository": "https://github.com/lukeslp/humanize"
+    "homepage": "https://github.com/lukeslp/skill-humanize",
+    "repository": "https://github.com/lukeslp/skill-humanize"
   },
   "plugins": [
     {

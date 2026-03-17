@@ -6,8 +6,8 @@
     "name": "Luke Steuber",
     "email": "luke@dr.eamer.dev"
   },
-  "homepage": "https://github.com/lukeslp/humanize",
-  "repository": "https://github.com/lukeslp/humanize",
+  "homepage": "https://github.com/lukeslp/skill-humanize",
+  "repository": "https://github.com/lukeslp/skill-humanize",
   "license": "MIT",
   "keywords": ["humanize", "writing", "content", "claude-code"]
 }

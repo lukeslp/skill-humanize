@@ -23,15 +23,15 @@ Each pattern has a confidence score. High-confidence patterns are auto-fixed, me
 ## Install
 
 ```bash
-claude plugin add lukeslp/humanize
+claude plugin add lukeslp/skill-humanize
 ```
 
 ## Usage
 
-In Claude Code, invoke the skill:
+In Claude Code, invoke the slash command:
 
 ```
-/humanize
+/humanize:humanize
 ```
 
 Or ask Claude Code to humanize your content:
